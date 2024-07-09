@@ -3,7 +3,7 @@ title =  "Baja Seat Covers"
 description = "Covering up the worn out with rugs"
 author = "Justin Napolitano"
 tags = ["lifestyle", "DIY','Car']
-categories = ['Personal','DIY']
+categories = ['DIY']
 images = ["images/feature-image.png"]
 date = "2024-07-09"
 +++
