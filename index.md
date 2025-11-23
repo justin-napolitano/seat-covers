@@ -1,25 +1,39 @@
-+++
-title =  "Baja Seat Covers"
-description = "Covering up the worn out with rugs"
-author = "Justin Napolitano"
-tags = ["lifestyle", "DIY",'Car']
-categories = ['DIY']
-images = ["images/feature-image.png"]
-date = "2024-07-09"
-+++
+---
+slug: "github-seat-covers"
+title: "seat-covers"
+repo: "justin-napolitano/seat-covers"
+githubUrl: "https://github.com/justin-napolitano/seat-covers"
+generatedAt: "2025-11-23T09:35:16.093831Z"
+source: "github-auto"
+---
 
 
-# Baja Seat Covers
+# Baja Seat Covers: Project Documentation and Technical Overview
 
-So my car is ready for some new seat covers. I am not going to spend the money to replace the original ones. It doesn't make sense. So I am going to cover them with blankets and hope for the best. 
+## Motivation
 
-## The plan
+The project originates from a practical need to address worn car seats without investing in costly replacements. The approach is utilitarian: cover the existing upholstery with readily available materials to extend usability.
 
-I am going to drape them over the front seats and cut some holes for the head rest to pass through.  Then I will sew the seat covers together (probably) to keep them from moving around. Then I will flip them inside out and call it day. 
+## Problem Statement
 
+Replacing car seat upholstery is often expensive and time-consuming. This project seeks a low-cost, low-effort alternative that provides functional coverage, accepting aesthetic compromises.
 
-## The Outcome
+## Implementation Details
 
-Okay so it looks pretty umm diy.. but so does the rest of the car. 
+The core method involves draping blankets over the front seats, cutting holes for the headrests, and sewing the fabric to secure the covers. The process is manual and straightforward, relying on basic sewing skills rather than specialized upholstery techniques.
 
-!['Seat Covers'](./images/1000007119.jpg)
+The repository contains an `index.md` file documenting the plan, execution, and outcome, supplemented by images stored in a compressed archive. These images provide visual reference points for the fitting and sewing process.
+
+## Technical Considerations
+
+- Material choice is limited to blankets, which affects durability and appearance.
+- Sewing is used primarily to prevent movement of the covers rather than to achieve a tailored fit.
+- The covers are flipped inside out post-sewing, likely to hide seams and create a cleaner exterior.
+
+## Practical Notes
+
+This project is not intended as a commercial or polished solution but as a functional stopgap. The documentation serves as a reference for similar future endeavors or for revisiting the project to iterate on design and technique.
+
+## Summary
+
+This repository captures a pragmatic approach to automotive interior maintenance. It prioritizes cost-effectiveness and simplicity, documented through markdown notes and photographic evidence. The project is a useful case study in DIY problem-solving with minimal resources.
