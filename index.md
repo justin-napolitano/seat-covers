@@ -1,12 +1,27 @@
 ---
-slug: "github-seat-covers"
-title: "seat-covers"
-repo: "justin-napolitano/seat-covers"
-githubUrl: "https://github.com/justin-napolitano/seat-covers"
-generatedAt: "2025-11-23T09:35:16.093831Z"
-source: "github-auto"
+slug: github-seat-covers
+title: DIY Baja Seat Covers Using Blankets and Basic Sewing Techniques
+repo: justin-napolitano/seat-covers
+githubUrl: https://github.com/justin-napolitano/seat-covers
+generatedAt: '2025-11-23T09:35:16.093831Z'
+source: github-auto
+summary: >-
+  Documentation of a low-cost DIY approach to covering worn car seats using blankets, simple sewing,
+  and manual fitting methods.
+tags:
+  - diy
+  - automotive
+  - seat-covers
+  - upholstery
+  - sewing
+  - car-maintenance
+seoPrimaryKeyword: seat covers
+seoSecondaryKeywords:
+  - diy seat covers
+  - car upholstery
+  - manual sewing
+seoOptimized: true
 ---
-
 
 # Baja Seat Covers: Project Documentation and Technical Overview
 
