@@ -21,6 +21,14 @@ seoSecondaryKeywords:
   - car upholstery
   - manual sewing
 seoOptimized: true
+topicFamily: climbing
+topicFamilyConfidence: 0.7
+topicFamilyNotes: >-
+  The post is about a practical DIY project related to automotive seat covers, focusing on low-cost,
+  manual solutions for comfort and utility in a vehicle context. The 'climbing' family relates to
+  outdoor gear and physical comfort in vehicles and gear, making it the best match among given
+  categories. Other families focus on software, data science, or personal journals which are not
+  relevant.
 ---
 
 # Baja Seat Covers: Project Documentation and Technical Overview
@@ -52,3 +60,4 @@ This project is not intended as a commercial or polished solution but as a funct
 ## Summary
 
 This repository captures a pragmatic approach to automotive interior maintenance. It prioritizes cost-effectiveness and simplicity, documented through markdown notes and photographic evidence. The project is a useful case study in DIY problem-solving with minimal resources.
+
