@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/seat-covers
 generatedAt: '2025-11-24T21:36:16.811Z'
 source: github-auto
 summary: >-
-  This project details how to create custom car seat covers using blankets and
-  simple sewing techniques.
+  This project details how to create custom car seat covers using blankets and simple sewing
+  techniques.
 tags:
   - diy
   - car seat covers
@@ -23,8 +23,8 @@ seoSecondaryKeywords:
   - project documentation
   - blanket covers
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: personal
+topicFamilyConfidence: 0.8
 kind: project
 entryLayout: project
 showInProjects: true
@@ -90,4 +90,5 @@ seat-covers/
 ---
 
 This project is a straightforward documentation of a DIY approach to car seat covers, emphasizing practicality over aesthetics.
+
 
