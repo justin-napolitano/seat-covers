@@ -1,13 +1,13 @@
 ---
 slug: github-seat-covers
-title: DIY Baja Seat Covers Using Blankets and Basic Sewing Techniques
+title: 'Baja Seat Covers: Technical Documentation and Overview'
 repo: justin-napolitano/seat-covers
 githubUrl: https://github.com/justin-napolitano/seat-covers
 generatedAt: '2025-11-23T09:35:16.093831Z'
 source: github-auto
 summary: >-
-  Documentation of a low-cost DIY approach to covering worn car seats using blankets, simple sewing,
-  and manual fitting methods.
+  Explore a practical approach to creating low-cost car seat covers using basic
+  materials and sewing techniques.
 tags:
   - diy
   - automotive
@@ -15,20 +15,28 @@ tags:
   - upholstery
   - sewing
   - car-maintenance
-seoPrimaryKeyword: seat covers
+  - DIY
+  - seat covers
+  - project documentation
+seoPrimaryKeyword: baja seat covers
 seoSecondaryKeywords:
-  - diy seat covers
-  - car upholstery
-  - manual sewing
+  - car seat repair
+  - DIY upholstery
+  - cost-effective solutions
+  - automotive maintenance
+  - practical sewing projects
 seoOptimized: true
 topicFamily: climbing
 topicFamilyConfidence: 0.7
 topicFamilyNotes: >-
-  The post is about a practical DIY project related to automotive seat covers, focusing on low-cost,
-  manual solutions for comfort and utility in a vehicle context. The 'climbing' family relates to
-  outdoor gear and physical comfort in vehicles and gear, making it the best match among given
-  categories. Other families focus on software, data science, or personal journals which are not
+  The post is about a practical DIY project related to automotive seat covers,
+  focusing on low-cost, manual solutions for comfort and utility in a vehicle
+  context. The 'climbing' family relates to outdoor gear and physical comfort in
+  vehicles and gear, making it the best match among given categories. Other
+  families focus on software, data science, or personal journals which are not
   relevant.
+kind: project
+id: github-seat-covers
 ---
 
 # Baja Seat Covers: Project Documentation and Technical Overview
